@@ -1,0 +1,20 @@
+{
+  "name": "angular_api",
+  "authors": [
+    "preetiksingh <preetisingh41451@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
